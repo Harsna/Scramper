@@ -9,4 +9,4 @@ RUN pip3 install wheel
 RUN pip3 install --no-cache-dir -U -r requirements.txt
 WORKDIR /app
 COPY . .
-CMD python3 -m Modules
+CMD python3 scraper.py
