@@ -1,1 +1,1 @@
-web: python -m Modules
+web: python scraper.py
