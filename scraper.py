@@ -91,7 +91,7 @@ async def checker(event):
                         f"- 𝐈𝐬𝐬𝐮𝐞𝐫: {bank}\n"
                         f"- 𝐂𝗼𝐮𝐧𝐭𝐫𝐲: {country} {country_flag}\n\n"
                         f"𝗧𝗶𝗺𝗲: {formatted_time_taken}\n\n"
-                        f"⚡️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 [𝗖𝗖 𝗦𝗰𝗿𝗮𝗽𝗽𝗲𝗿](https://t.me/CCScrapperByUs) ⚡️"
+                        f"⚡️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 [𝗖𝗖 𝗦𝗰𝗿𝗮𝗽𝗽𝗲𝗿](https://t.me/ScrapperByUs) ⚡️"
                     )
                     print(formatted_message)
                     # Send the formatted message using one of the two bots
