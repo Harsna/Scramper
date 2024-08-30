@@ -42,7 +42,7 @@ async def bin_lookup(bin_number):
 # Function to send message using one of the two bots
 async def send_message(message, bot):
     try:
-        await bot.send_message('CCScrapperByUs', message, link_preview=False)
+        await bot.send_message('ScrapperByUs', message, link_preview=False)
     except errors.FloodWaitError as e:
         print(f"Flood wait error: {e.seconds}")
         if bot == bot1:
