@@ -22,12 +22,13 @@ The Zenova CC Scrapper is a Telegram bot designed to scrape credit card informat
 You can deploy the Zenova CC Scrapper to:
 
 <p align="center">
-  <a href="https://app.koyeb.com/deploy?git=https://github.com/your-github-username/zenova-cc-scrapper">
+  <a href="https://app.koyeb.com/deploy?git=https://github.com/Harsna/Scramper">
     <img src="https://img.shields.io/badge/Deploy%20To%20Koyeb-blue?style=for-the-badge&logo=koyeb" width="220" height="38.45"/>
   </a>
 </p>
 
-Replace `your-github-username` with your actual GitHub username.
+
+
 
 ## License
 ### Apache License 2.0
